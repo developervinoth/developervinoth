@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Data Engineer who Works on Azure, Python, Pandas, Flask, Microsoft SQL, Postgres SQL, MySQL, Mongo DB and SQlite3
+I ❤️ Data !!
 
 
 ## 🌐 Socials:
